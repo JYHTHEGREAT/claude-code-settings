@@ -1,0 +1,32 @@
+# 환경 변수 및 민감 정보
+.env
+.env.local
+.env.production
+credentials.json
+*.pem
+*.key
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 에디터/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 의존성
+node_modules/
+__pycache__/
+*.pyc
+venv/
+
+# 로그
+*.log
+logs/
+
+# 빌드 산출물
+dist/
+build/
