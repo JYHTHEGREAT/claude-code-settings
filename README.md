@@ -1,6 +1,6 @@
-# Claude Forge 자동화 시스템
+# Claude Code + JYH-forge 자동화 실습 프로젝트
 
-특이점 빌더스 4차시 과제 — Claude Forge & 개발 파이프라인으로 자동화 시스템 만들기
+Claude Code 자동화 시스템 세팅부터 개발 파이프라인 실습까지.
 
 ## 자동화 시스템 (2개)
 
